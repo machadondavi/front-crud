@@ -1,5 +1,12 @@
 # Front-CRUD
-Versão CLI: Vue CLI 3
+Projeto desenvolvido para consumir API Rest - CRUD
+
+Versão CLI: Vue CLI 2
+
+## Layout:
+
+![](https://github.com/machadondavi/front-crud/blob/master/images/crud.png)
+
 ## Project setup
 ```
 npm install
