@@ -1,5 +1,5 @@
 # Front-CRUD
-Projeto desenvolvido para consumir API Rest - CRUD
+Projeto desenvolvido para consumir API Rest - CRUD desenvolvida por mim (https://github.com/machadondavi/vagas/tree/master)
 
 Versão CLI: Vue CLI 2
 
