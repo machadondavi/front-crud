@@ -15,6 +15,6 @@ export default	{
   },
     
 	apagar:(user)=>{
-		return http.delete('users', { data: user })
+		return http.delete(`users/${user}`)
 	}
 }
